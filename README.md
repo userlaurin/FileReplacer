@@ -1,5 +1,5 @@
 # FileReplacer
-Tool to recursively replace strings in files following using REGEX. Files are unzipped and rezipped in memory.
+Tool to recursively replace strings in SCORM files following using REGEX. Files are unzipped and rezipped in memory.
 
 in index.js:
 
